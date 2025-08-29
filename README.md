@@ -39,11 +39,10 @@ PixelChangerは、Android端末の画面解像度とDPI（画面密度）を柔�
    - **解像度変更**：確認ダイアログの後に設定を適用します。  
    - **リセット**：端末の工場出荷時の解像度とDPIに戻します。
 
-##
+## 動作確認端末
 
-動作確認端末
-・Nothing phone(2a) (Android15)
-・moto g53j 5G(Android14)
+- Nothing Phone (2a)（Android 15）
+- moto g53j 5G（Android 14）
 
 ---
 
